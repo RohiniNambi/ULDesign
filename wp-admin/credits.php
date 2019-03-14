@@ -18,7 +18,7 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 ?>
 <div class="wrap about-wrap full-width-layout">
 
-<h1><?php printf( __( 'Welcome to WordPress %s' ), $display_version ); ?></h1>
+<h1><?php printf( __( 'Welcome %s' ), $display_version ); ?></h1>
 
 <p class="about-text"><?php printf( __( 'Thank you for updating to the latest version! WordPress %s introduces a robust new content creation experience.' ), $display_version ); ?></p>
 

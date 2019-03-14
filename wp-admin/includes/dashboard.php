@@ -62,8 +62,8 @@ function wp_dashboard_setup() {
 		wp_add_dashboard_widget( 'dashboard_quick_press', $quick_draft_title, 'wp_dashboard_quick_press' );
 	}
 
-	// WordPress Events and News
-	wp_add_dashboard_widget( 'dashboard_primary', __( 'WordPress Events and News' ), 'wp_dashboard_events_news' );
+	// Events and News
+	wp_add_dashboard_widget( 'dashboard_primary', __( 'Events and News' ), 'wp_dashboard_events_news' );
 
 	if ( is_network_admin() ) {
 
@@ -565,14 +565,14 @@ function wp_dashboard_quick_press( $error_msg = false ) {
 				<input type="hidden" name="post_ID" value="<?php echo $p_id; ?>" />
 				<input type="hidden" name="post_type" value="post" />
 				<?php wp_nonce_field( 'add-post' ); ?>
-				<?php submit_button( __( 'Update Draft' ), 'primary', 'update', false, array( 'id' => 'update-post' ) ); ?>
+				<?php submit_button( __( 'Update' ), 'primary', 'update', false, array( 'id' => 'update-post' ) ); ?>
 			<?php } else { ?>
 
 				<input type="hidden" name="action" id="quickpost-action" value="post-quickdraft-save" />
 				<input type="hidden" name="post_ID" value="<?php echo $post_ID; ?>" />
 				<input type="hidden" name="post_type" value="post" />
 				<?php wp_nonce_field( 'add-post' ); ?>
-				<?php submit_button( __( 'Save Draft' ), 'primary', 'save', false, array( 'id' => 'save-post' ) );  ?>
+				<?php submit_button( __( 'Save' ), 'primary', 'save', false, array( 'id' => 'save-post' ) );  ?>
 			<?php } ?>
 
 
@@ -1348,7 +1348,7 @@ function wp_print_community_events_templates() {
 }
 
 /**
- * 'WordPress Events and News' dashboard widget.
+ * 'Events and News' dashboard widget.
  *
  * @since 2.7.0
  * @since 4.8.0 Removed popular plugins feed.
@@ -1358,7 +1358,7 @@ function wp_dashboard_primary() {
 		'news'   => array(
 
 			/**
-			 * Filters the primary link URL for the 'WordPress Events and News' dashboard widget.
+			 * Filters the primary link URL for the 'Events and News' dashboard widget.
 			 *
 			 * @since 2.5.0
 			 *
@@ -1367,7 +1367,7 @@ function wp_dashboard_primary() {
 			'link'         => apply_filters( 'dashboard_primary_link', __( 'https://wordpress.org/news/' ) ),
 
 			/**
-			 * Filters the primary feed URL for the 'WordPress Events and News' dashboard widget.
+			 * Filters the primary feed URL for the 'Events and News' dashboard widget.
 			 *
 			 * @since 2.3.0
 			 *
@@ -1376,7 +1376,7 @@ function wp_dashboard_primary() {
 			'url'          => apply_filters( 'dashboard_primary_feed', __( 'https://wordpress.org/news/feed/' ) ),
 
 			/**
-			 * Filters the primary link title for the 'WordPress Events and News' dashboard widget.
+			 * Filters the primary link title for the 'Events and News' dashboard widget.
 			 *
 			 * @since 2.3.0
 			 *
@@ -1391,7 +1391,7 @@ function wp_dashboard_primary() {
 		'planet' => array(
 
 			/**
-			 * Filters the secondary link URL for the 'WordPress Events and News' dashboard widget.
+			 * Filters the secondary link URL for the 'Events and News' dashboard widget.
 			 *
 			 * @since 2.3.0
 			 *
@@ -1400,7 +1400,7 @@ function wp_dashboard_primary() {
 			'link'         => apply_filters( 'dashboard_secondary_link', __( 'https://planet.wordpress.org/' ) ),
 
 			/**
-			 * Filters the secondary feed URL for the 'WordPress Events and News' dashboard widget.
+			 * Filters the secondary feed URL for the 'Events and News' dashboard widget.
 			 *
 			 * @since 2.3.0
 			 *
@@ -1409,7 +1409,7 @@ function wp_dashboard_primary() {
 			'url'          => apply_filters( 'dashboard_secondary_feed', __( 'https://planet.wordpress.org/feed/' ) ),
 
 			/**
-			 * Filters the secondary link title for the 'WordPress Events and News' dashboard widget.
+			 * Filters the secondary link title for the 'Events and News' dashboard widget.
 			 *
 			 * @since 2.3.0
 			 *
@@ -1418,7 +1418,7 @@ function wp_dashboard_primary() {
 			'title'        => apply_filters( 'dashboard_secondary_title', __( 'Other WordPress News' ) ),
 
 			/**
-			 * Filters the number of secondary link items for the 'WordPress Events and News' dashboard widget.
+			 * Filters the number of secondary link items for the 'Events and News' dashboard widget.
 			 *
 			 * @since 4.4.0
 			 *
@@ -1435,7 +1435,7 @@ function wp_dashboard_primary() {
 }
 
 /**
- * Display the WordPress events and news feeds.
+ * Display the Events and news feeds.
  *
  * @since 3.8.0
  * @since 4.8.0 Removed popular plugins feed.
@@ -1713,7 +1713,7 @@ function wp_dashboard_empty() {}
 function wp_welcome_panel() {
 	?>
 	<div class="welcome-panel-content">
-	<h2><?php _e( 'Welcome to WordPress!' ); ?></h2>
+	<h2><?php _e( 'Welcome!' ); ?></h2>
 	<p class="about-description"><?php _e( 'We&#8217;ve assembled some links to get you started:' ); ?></p>
 	<div class="welcome-panel-column-container">
 	<div class="welcome-panel-column">
