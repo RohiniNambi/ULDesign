@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Administration Media API.
+   Administration Media API.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

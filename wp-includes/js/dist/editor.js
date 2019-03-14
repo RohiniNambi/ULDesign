@@ -8223,7 +8223,7 @@ var external_this_wp_i18n_ = __webpack_require__(1);
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/store/defaults.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 var PREFERENCES_DEFAULTS = {
@@ -8408,7 +8408,7 @@ var EDIT_MERGE_PROPERTIES = new Set(['meta']);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9786,7 +9786,7 @@ var external_this_wp_a11y_ = __webpack_require__(44);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10596,7 +10596,7 @@ var external_this_wp_autop_ = __webpack_require__(58);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -12907,7 +12907,7 @@ var external_this_wp_apiFetch_default = /*#__PURE__*/__webpack_require__.n(exter
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -13330,7 +13330,7 @@ var reusable_blocks_convertBlockToReusable = function convertBlockToReusable(act
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/store/effects/utils.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -13383,7 +13383,7 @@ function resolveSelector(namespace, selectorName) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -13788,7 +13788,7 @@ function () {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14037,7 +14037,7 @@ function applyMiddlewares(store) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/store/index.js
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 /**
@@ -14108,7 +14108,7 @@ var external_this_wp_components_ = __webpack_require__(4);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14179,7 +14179,7 @@ var ifBlockEditSelected = Object(external_this_wp_compose_["createHigherOrderCom
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14321,7 +14321,7 @@ function withFilteredAutocompleters(Autocomplete) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14362,7 +14362,7 @@ function BlockIcon(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14483,7 +14483,7 @@ function createBlockCompleter() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -14543,7 +14543,7 @@ function createBlockCompleter() {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14625,7 +14625,7 @@ function AlignmentToolbar(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14718,7 +14718,7 @@ function BlockAlignmentToolbar(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -14752,7 +14752,7 @@ BlockControls.Slot = Slot;
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -14790,7 +14790,7 @@ var edit_Edit = function Edit(props) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -14860,7 +14860,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-format-controls/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -14889,7 +14889,7 @@ var external_this_wp_keycodes_ = __webpack_require__(16);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15007,7 +15007,7 @@ function BlockNavigation(_ref2) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15068,7 +15068,7 @@ function BlockNavigationDropdown(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15086,7 +15086,7 @@ function BlockNavigationDropdown(_ref) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/color-palette/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -15194,7 +15194,7 @@ function utils_getMostReadableColor(colors, colorValue) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15341,7 +15341,7 @@ var DEFAULT_COLORS = [];
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15432,7 +15432,7 @@ function getFontSizeClass(fontSizeSlug) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/font-sizes/font-size-picker.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15462,7 +15462,7 @@ function getFontSizeClass(fontSizeSlug) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15611,7 +15611,7 @@ var external_this_wp_dom_ = __webpack_require__(22);
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-mover/mover-description.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -15704,7 +15704,7 @@ function getMultiBlockMoverDescription(selectedCount, firstIndex, isFirst, isLas
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 var upArrow = Object(external_this_wp_element_["createElement"])(external_this_wp_components_["SVG"], {
@@ -15736,7 +15736,7 @@ var dragHandle = Object(external_this_wp_element_["createElement"])(external_thi
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15791,7 +15791,7 @@ var block_draggable_BlockDraggable = function BlockDraggable(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15842,7 +15842,7 @@ var drag_handle_IconDragHandle = function IconDragHandle(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -15996,7 +15996,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/media-upload/check.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 function MediaUploadCheck(_ref) {
@@ -16029,7 +16029,7 @@ function MediaUploadCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16228,7 +16228,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16288,7 +16288,7 @@ var diff = __webpack_require__(191);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16335,7 +16335,7 @@ var block_view_BlockView = function BlockView(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16445,7 +16445,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16589,7 +16589,7 @@ var block_invalid_warning_blockToBlocks = function blockToBlocks(block) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -16610,7 +16610,7 @@ var block_crash_warning_warning = Object(external_this_wp_element_["createElemen
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16674,7 +16674,7 @@ var react_autosize_textarea_lib_default = /*#__PURE__*/__webpack_require__.n(rea
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -16766,7 +16766,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-title/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16820,7 +16820,7 @@ function BlockTitle(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -16924,7 +16924,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17033,7 +17033,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -17064,7 +17064,7 @@ function BlockContextualToolbar(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17126,7 +17126,7 @@ var dom_scroll_into_view_lib_default = /*#__PURE__*/__webpack_require__.n(dom_sc
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17234,7 +17234,7 @@ function InserterListItem(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -17298,7 +17298,7 @@ function BlockTypesList(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17355,7 +17355,7 @@ function ChildBlocks(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17400,7 +17400,7 @@ var inline_elements_InserterInlineElements = function InserterInlineElements(_re
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17828,7 +17828,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -17986,7 +17986,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -18021,7 +18021,7 @@ function BlockMobileToolbar(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -18140,7 +18140,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -18270,7 +18270,7 @@ ignore_nested_events_forwardedIgnoreNestedEvents.displayName = 'IgnoreNestedEven
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -18352,7 +18352,7 @@ function InserterWithShortcuts(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -18562,7 +18562,7 @@ function hasInnerBlocksContext(element) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -19305,7 +19305,7 @@ var external_this_wp_htmlEntities_ = __webpack_require__(49);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -19422,7 +19422,7 @@ function DefaultBlockAppender(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -19509,7 +19509,7 @@ function BlockListAppender(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -19773,7 +19773,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -19962,7 +19962,7 @@ inner_blocks_InnerBlocks.Content = Object(external_this_wp_blocks_["withBlockCon
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/inspector-advanced-controls/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -19981,7 +19981,7 @@ InspectorAdvancedControls.Slot = inspector_advanced_controls_Slot;
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/inspector-controls/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -20003,7 +20003,7 @@ InspectorControls.Slot = inspector_controls_Slot;
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20060,7 +20060,7 @@ function ColorPaletteControl(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20197,7 +20197,7 @@ var external_this_wp_deprecated_default = /*#__PURE__*/__webpack_require__.n(ext
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20241,7 +20241,7 @@ var format_edit_FormatEdit = function FormatEdit(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20310,7 +20310,7 @@ var aria_diffAriaProps = function diffAriaProps(props, nextProps) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20701,7 +20701,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/rich-text/patterns.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20787,7 +20787,7 @@ function getPatterns(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -20833,7 +20833,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -21001,7 +21001,7 @@ var list_edit_ListEdit = function ListEdit(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -21046,7 +21046,7 @@ var RemoveBrowserShortcuts = function RemoveBrowserShortcuts() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -21079,7 +21079,7 @@ function RichTextToolbarButton(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -21143,7 +21143,7 @@ var RichTextInserterItem = Object(external_this_wp_data_["withSelect"])(function
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -22187,7 +22187,7 @@ RichTextContainer.Content.defaultProps = {
 
 
 /**
- * WordPress dependencies.
+   dependencies.
  */
 
 
@@ -22209,7 +22209,7 @@ RichTextContainer.Content.defaultProps = {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/media-upload/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -22237,7 +22237,7 @@ var MediaUpload = function MediaUpload() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -22319,7 +22319,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -22630,7 +22630,7 @@ function createMediaFromFile(file, additionalData) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -22687,7 +22687,7 @@ function createMediaFromFile(file, additionalData) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -22750,7 +22750,7 @@ function cleanForSlug(string) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23049,7 +23049,7 @@ var media_placeholder_applyWithSelect = Object(external_this_wp_data_["withSelec
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23386,7 +23386,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23481,7 +23481,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23567,7 +23567,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23625,7 +23625,7 @@ var item_TableOfContentsItem = function TableOfContentsItem(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23777,7 +23777,7 @@ var document_outline_DocumentOutline = function DocumentOutline(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23808,7 +23808,7 @@ function DocumentOutlineCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23917,7 +23917,7 @@ function BlockActions(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24124,7 +24124,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24162,7 +24162,7 @@ function EditorHistoryRedo(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24201,7 +24201,7 @@ function EditorHistoryUndo(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24257,7 +24257,7 @@ function TemplateValidationNotice(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24288,7 +24288,7 @@ function EditorNotices(props) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24327,7 +24327,7 @@ function PageAttributesCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24382,7 +24382,7 @@ function PostTypeSupportCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24488,7 +24488,7 @@ function buildTermsTree(flatTerms) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24576,7 +24576,7 @@ var parent_applyWithDispatch = Object(external_this_wp_data_["withDispatch"])(fu
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24635,7 +24635,7 @@ function PageTemplate(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24677,7 +24677,7 @@ function PostAuthorCheck(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24760,7 +24760,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24799,7 +24799,7 @@ function PostComments(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24860,7 +24860,7 @@ function PostExcerptCheck(props) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -24929,7 +24929,7 @@ function PostFeaturedImageCheck(props) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25077,7 +25077,7 @@ var post_featured_image_applyWithDispatch = Object(external_this_wp_data_["withD
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -25110,7 +25110,7 @@ function PostFormatCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25229,7 +25229,7 @@ function PostFormat(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -25265,7 +25265,7 @@ function PostLastRevisionCheck(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25319,7 +25319,7 @@ var external_jQuery_default = /*#__PURE__*/__webpack_require__.n(external_jQuery
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25520,7 +25520,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25764,7 +25764,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25797,7 +25797,7 @@ function PostPendingStatusCheck(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25842,7 +25842,7 @@ function PostPendingStatus(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25883,7 +25883,7 @@ function PostPingbacks(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25952,7 +25952,7 @@ function PublishButtonLabel(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26105,7 +26105,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/post-visibility/utils.js
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 var visibilityOptions = [{
@@ -26132,7 +26132,7 @@ var visibilityOptions = [{
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26315,7 +26315,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26347,7 +26347,7 @@ function PostVisibilityLabel(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26388,7 +26388,7 @@ function PostSchedule(_ref) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/post-schedule/label.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26424,7 +26424,7 @@ function PostScheduleLabel(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26725,7 +26725,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26815,7 +26815,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies.
+   dependencies.
  */
 
 
@@ -26898,7 +26898,7 @@ var maybe_post_format_panel_getSuggestion = function getSuggestion(supportedForm
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26975,7 +26975,7 @@ function PostPublishPanelPrepublish(_ref) {
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -27116,7 +27116,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27273,7 +27273,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27353,7 +27353,7 @@ function PostSwitchToDraftButton(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27525,7 +27525,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27557,7 +27557,7 @@ function PostScheduleCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27585,7 +27585,7 @@ function PostStickyCheck(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27639,7 +27639,7 @@ function PostSticky(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28160,7 +28160,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28207,7 +28207,7 @@ function PostTaxonomies(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28249,7 +28249,7 @@ function PostTaxonomiesCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28381,7 +28381,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28508,7 +28508,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28708,7 +28708,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28923,7 +28923,7 @@ var post_title_applyWithDispatch = Object(external_this_wp_data_["withDispatch"]
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28971,7 +28971,7 @@ function PostTrash(_ref) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/post-trash/check.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29004,7 +29004,7 @@ function PostTrashCheck(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29035,7 +29035,7 @@ var external_this_wp_wordcount_ = __webpack_require__(97);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29066,7 +29066,7 @@ function WordCount(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29121,7 +29121,7 @@ function TableOfContentsPanel(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29171,7 +29171,7 @@ function TableOfContents(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29240,7 +29240,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29287,7 +29287,7 @@ var external_this_wp_tokenList_default = /*#__PURE__*/__webpack_require__.n(exte
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29462,7 +29462,7 @@ function BlockStyles(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29518,7 +29518,7 @@ function MultiSelectionInspector(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29624,7 +29624,7 @@ var block_inspector_BlockInspector = function BlockInspector(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29713,7 +29713,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29772,7 +29772,7 @@ function BlockModeToggle(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29857,7 +29857,7 @@ function ReusableBlockConvertButton(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29918,7 +29918,7 @@ function ReusableBlockDeleteButton(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29943,7 +29943,7 @@ function BlockConvertButton(_ref) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-settings-menu/block-html-convert-button.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29973,7 +29973,7 @@ function BlockConvertButton(_ref) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-settings-menu/block-unknown-convert-button.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30003,7 +30003,7 @@ function BlockConvertButton(_ref) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-settings-menu/block-settings-menu-first-item.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30016,7 +30016,7 @@ _BlockSettingsMenuFirstItem.Slot = block_settings_menu_first_item_Slot;
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/editor/build-module/components/block-settings-menu/block-settings-menu-plugins-extension.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30036,7 +30036,7 @@ _BlockSettingsMenuPluginsExtension.Slot = block_settings_menu_plugins_extension_
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30178,7 +30178,7 @@ function BlockSettingsMenu(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30370,7 +30370,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -30403,7 +30403,7 @@ function MultiBlocksSwitcher(_ref) {
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -30467,7 +30467,7 @@ function BlockToolbar(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30573,7 +30573,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30674,7 +30674,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30770,7 +30770,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -31011,7 +31011,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -31134,7 +31134,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32910,7 +32910,7 @@ var wrap_wrap = function wrap(namespace) {
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -33149,7 +33149,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33352,7 +33352,7 @@ Object(external_this_wp_hooks_["addFilter"])('blocks.getSaveContent.extraProps',
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33459,7 +33459,7 @@ Object(external_this_wp_hooks_["addFilter"])('blocks.getSaveContent.extraProps',
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33605,7 +33605,7 @@ Object(external_this_wp_hooks_["addFilter"])('blocks.getBlockAttributes', 'core/
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33652,7 +33652,7 @@ Object(external_this_wp_hooks_["addFilter"])('editor.Autocomplete.completers', '
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33809,7 +33809,7 @@ Object(external_this_wp_hooks_["addFilter"])('blocks.getSaveContent.extraProps',
 /* concated harmony reexport mediaUpload */__webpack_require__.d(__webpack_exports__, "mediaUpload", function() { return utils_media_upload; });
 /* concated harmony reexport cleanForSlug */__webpack_require__.d(__webpack_exports__, "cleanForSlug", function() { return cleanForSlug; });
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

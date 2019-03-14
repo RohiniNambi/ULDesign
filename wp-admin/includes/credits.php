@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Credits Administration API.
+   Credits Administration API.
  *
- * @package WordPress
+  
  * @subpackage Administration
  * @since 4.4.0
  */

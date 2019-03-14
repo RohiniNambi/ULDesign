@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress media templates.
+   media templates.
  *
- * @package WordPress
+  
  * @subpackage Media
  * @since 3.5.0
  */

@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Administration Bootstrap
+   Administration Bootstrap
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

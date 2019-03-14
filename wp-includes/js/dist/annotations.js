@@ -826,7 +826,7 @@ function __experimentalRemoveAnnotationsBySource(source) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/annotations/build-module/store/index.js
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 /**
@@ -864,7 +864,7 @@ var external_this_wp_i18n_ = __webpack_require__(1);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1058,7 +1058,7 @@ var annotation_annotation = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -1077,7 +1077,7 @@ var external_this_wp_hooks_ = __webpack_require__(23);
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/annotations/build-module/block/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

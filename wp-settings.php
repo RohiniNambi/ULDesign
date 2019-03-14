@@ -5,7 +5,7 @@
  *
  * Allows for some configuration in wp-config.php (see default-constants.php)
  *
- * @package WordPress
+  
  */
 
 /**
@@ -387,7 +387,7 @@ wp_magic_quotes();
 do_action( 'sanitize_comment_cookies' );
 
 /**
- * WordPress Query object
+   Query object
  *
  * @global WP_Query $wp_the_query
  * @since 2.0.0
@@ -412,7 +412,7 @@ $GLOBALS['wp_query'] = $GLOBALS['wp_the_query'];
 $GLOBALS['wp_rewrite'] = new WP_Rewrite();
 
 /**
- * WordPress Object
+   Object
  *
  * @global WP $wp
  * @since 2.0.0
@@ -420,7 +420,7 @@ $GLOBALS['wp_rewrite'] = new WP_Rewrite();
 $GLOBALS['wp'] = new WP();
 
 /**
- * WordPress Widget Factory Object
+   Widget Factory Object
  *
  * @global WP_Widget_Factory $wp_widget_factory
  * @since 2.8.0
@@ -428,7 +428,7 @@ $GLOBALS['wp'] = new WP();
 $GLOBALS['wp_widget_factory'] = new WP_Widget_Factory();
 
 /**
- * WordPress User Roles
+   User Roles
  *
  * @global WP_Roles $wp_roles
  * @since 2.0.0
@@ -456,7 +456,7 @@ if ( ( 0 === validate_file( $locale ) ) && is_readable( $locale_file ) ) {
 unset( $locale_file );
 
 /**
- * WordPress Locale object for loading locale domain date and various strings.
+   Locale object for loading locale domain date and various strings.
  *
  * @global WP_Locale $wp_locale
  * @since 2.1.0

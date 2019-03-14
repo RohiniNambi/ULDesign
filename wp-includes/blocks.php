@@ -2,7 +2,7 @@
 /**
  * Functions related to registering and parsing blocks.
  *
- * @package WordPress
+  
  * @subpackage Blocks
  * @since 5.0.0
  */

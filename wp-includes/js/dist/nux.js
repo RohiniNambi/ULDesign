@@ -528,7 +528,7 @@ var toConsumableArray = __webpack_require__(19);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -784,7 +784,7 @@ function selectors_areTipsEnabled(state) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/nux/build-module/store/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -818,7 +818,7 @@ var external_this_wp_i18n_ = __webpack_require__(1);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

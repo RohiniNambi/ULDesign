@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Export Administration API
+   Export Administration API
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

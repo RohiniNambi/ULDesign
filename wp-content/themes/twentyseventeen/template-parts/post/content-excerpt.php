@@ -6,7 +6,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package WordPress
+  
  * @subpackage Twenty_Seventeen
  * @since 1.0
  * @version 1.2

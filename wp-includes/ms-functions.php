@@ -2,7 +2,7 @@
 /**
  * Multisite WordPress API
  *
- * @package WordPress
+  
  * @subpackage Multisite
  * @since 3.0.0
  */
@@ -1852,7 +1852,7 @@ function recurse_dirsize( $directory, $exclude = null ) {
 /**
  * Check an array of MIME types against a whitelist.
  *
- * WordPress ships with a set of allowed upload filetypes,
+   ships with a set of allowed upload filetypes,
  * which is defined in wp-includes/functions.php in
  * get_allowed_mime_types(). This function is used to filter
  * that list against the filetype whitelist provided by Multisite
@@ -1879,7 +1879,7 @@ function check_upload_mimes( $mimes ) {
 /**
  * Update a blog's post count.
  *
- * WordPress MS stores a blog's post count as an option so as
+   MS stores a blog's post count as an option so as
  * to avoid extraneous COUNTs when a blog's details are fetched
  * with get_site(). This function is called when posts are published
  * or unpublished to make sure the count stays current.

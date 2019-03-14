@@ -487,7 +487,7 @@ function RawHTML(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Post Administration API.
+   Post Administration API.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

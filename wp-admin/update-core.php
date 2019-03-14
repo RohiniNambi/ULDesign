@@ -2,11 +2,11 @@
 /**
  * Update Core administration panel.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 
-/** WordPress Administration Bootstrap */
+/*  Administration Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
 wp_enqueue_style( 'plugin-install' );

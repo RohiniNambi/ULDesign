@@ -993,7 +993,7 @@ function czr_fn_get_font( $_what = 'list' , $_requested = null ) {
 *
 * @param $autofocus(optional) is an array indicating the elements to focus on ( control,section,panel).
 * Ex : array( 'control' => 'tc_front_slider', 'section' => 'frontpage_sec').
-* Wordpress will cycle among autofocus keys focusing the existing element - See wp-admin/customize.php.
+  will cycle among autofocus keys focusing the existing element - See wp-admin/customize.php.
 * // Following not valid anymore in wp 4.6.1, due to a bug?
 * //The actual focused element depends on its type according to this priority scale: control, section, panel.
 * //In this sense when specifying a control, additional section and panel could be considered as fall-back.

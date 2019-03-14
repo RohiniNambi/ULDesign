@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Customize Widgets classes
+   Customize Widgets classes
  *
- * @package WordPress
+  
  * @subpackage Customize
  * @since 3.9.0
  */

@@ -2,7 +2,7 @@
 /**
  * Edit Site Info Administration Screen
  *
- * @package WordPress
+  
  * @subpackage Multisite
  * @since 3.1.0
  */

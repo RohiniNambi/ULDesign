@@ -2,7 +2,7 @@
 /**
  * HTTP API: Requests hook bridge class
  *
- * @package WordPress
+  
  * @subpackage HTTP
  * @since 4.7.0
  */
@@ -23,7 +23,7 @@ class WP_HTTP_Requests_Hooks extends Requests_Hooks {
 	protected $url;
 
 	/**
-	 * WordPress WP_HTTP request data.
+	   WP_HTTP request data.
 	 *
 	 * @var array Request data in WP_Http format.
 	 */

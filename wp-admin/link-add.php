@@ -2,7 +2,7 @@
 /**
  * Add Link Administration Screen.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

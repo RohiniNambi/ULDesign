@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Network Administration Bootstrap
+   Network Administration Bootstrap
  *
- * @package WordPress
+  
  * @subpackage Multisite
  * @since 3.1.0
  */

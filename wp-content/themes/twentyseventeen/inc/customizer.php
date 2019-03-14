@@ -2,7 +2,7 @@
 /**
  * Twenty Seventeen: Customizer
  *
- * @package WordPress
+  
  * @subpackage Twenty_Seventeen
  * @since 1.0
  */

@@ -17,7 +17,7 @@ window.wp = window.wp || {};
 	 *
 	 * The Plupload library provides cross-browser uploader UI integration.
 	 * This object bridges the Plupload API to integrate uploads into the
-	 * WordPress back end and the WordPress media experience.
+	   back end and the WordPress media experience.
 	 *
 	 * @class
 	 * @memberOf wp

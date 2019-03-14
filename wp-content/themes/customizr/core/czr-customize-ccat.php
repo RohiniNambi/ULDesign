@@ -1285,7 +1285,7 @@ if ( ! class_exists( 'CZR_Customize_Multipicker_Control' ) ) :
   /**
   * Customize Multi-picker Control Class
   *
-  * @package WordPress
+   
   * @subpackage Customize
   * @since 3.4.10
   */
@@ -1351,7 +1351,7 @@ endif;
  * @ dropdown multi-select walker
  * Create HTML dropdown list of Categories.
  *
- * @package WordPress
+  
  * @since 2.1.0
  * @uses Walker
  *
@@ -1401,7 +1401,7 @@ if ( ! class_exists( 'CZR_Customize_Upload_Control' ) ) :
   /**
    * Customize Upload Control Class
    *
-   * @package WordPress
+    
    * @subpackage Customize
    * @since 3.4.0
    */

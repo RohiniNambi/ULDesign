@@ -9,7 +9,7 @@
  * Version: 1.6.2
  * Author URI: https://www.wponlinesupport.com
  *
- * @package WordPress
+  
  * @author WP OnlineSupport
  */
 

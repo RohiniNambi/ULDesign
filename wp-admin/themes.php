@@ -2,11 +2,11 @@
 /**
  * Themes administration panel.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 
-/** WordPress Administration Bootstrap */
+/*  Administration Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
 if ( ! current_user_can( 'switch_themes' ) && ! current_user_can( 'edit_theme_options' ) ) {

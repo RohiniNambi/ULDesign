@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress core upgrade functionality.
+   core upgrade functionality.
  *
- * @package WordPress
+  
  * @subpackage Administration
  * @since 2.7.0
  */

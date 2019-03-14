@@ -181,7 +181,7 @@ function isViewportMatch(state, query) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/viewport/build-module/store/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -206,7 +206,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -235,7 +235,7 @@ var with_viewport_match_withViewportMatch = function withViewportMatch(queries) 
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/viewport/build-module/if-viewport-matches.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -272,7 +272,7 @@ var if_viewport_matches_ifViewportMatches = function ifViewportMatches(query) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

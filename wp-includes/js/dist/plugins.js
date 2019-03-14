@@ -317,7 +317,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -364,7 +364,7 @@ var esm_typeof = __webpack_require__(28);
 /* eslint no-console: [ 'error', { allow: [ 'error' ] } ] */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -479,7 +479,7 @@ function getPlugins() {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

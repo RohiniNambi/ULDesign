@@ -2,16 +2,15 @@
 /**
  * About This Version administration panel.
  *
- * @package WordPress
  * @subpackage Administration
  */
 
-/** WordPress Administration Bootstrap */
+/*  Administration Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
 wp_enqueue_script( 'underscore' );
 
-/* translators: Page title of the About WordPress page in the admin. */
+/* translators: Page title of the About page in the admin. */
 $title = _x( 'About', 'page title' );
 
 list( $display_version ) = explode( '-', get_bloginfo( 'version' ) );
@@ -21,7 +20,7 @@ wp_enqueue_style( 'wp-block-library' );
 include( ABSPATH . 'wp-admin/admin-header.php' );
 ?>
 	<div class="wrap about-wrap full-width-layout">
-		<h1><?php printf( __( 'Welcome to WordPress&nbsp;%s' ), $display_version ); ?></h1>
+		<h1><?php printf( __( 'Welcome to &nbsp;%s' ), $display_version ); ?></h1>
 
 		<p class="about-text"><?php printf( __( 'Thank you for updating to the latest version!' ), $display_version ); ?></p>
 
@@ -41,7 +40,7 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				<div class="inline-svg">
 					<img src="https://s.w.org/images/core/5.1/update.svg" alt="">
 				</div>
-				<p><?php _e( 'You&#8217;ve successfully upgraded to WordPress 5.1! Following WordPress 5.0&#8212;a major release which introduced the new block editor&#8212;5.1 focuses on polish, in particular by improving overall performance of the editor. In addition, this release paves the way for a better, faster, and more secure WordPress with some essential tools for site administrators and developers.' ); ?></p>
+				<p><?php _e( 'You&#8217;ve successfully upgraded to 5.1! Following 5.0&#8212;a major release which introduced the new block editor&#8212;5.1 focuses on polish, in particular by improving overall performance of the editor. In addition, this release paves the way for a better, faster, and more secure with some essential tools for site administrators and developers.' ); ?></p>
 			</div>
 		</div>
 
@@ -51,15 +50,15 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				<div class="inline-svg alignright">
 					<img src="https://s.w.org/images/core/5.1/site-health.svg" alt="">
 				</div>
-				<p><?php printf( __( 'With security and speed in mind, this release introduces WordPress&#8217;s first <a href="%s">Site Health</a> features. WordPress will start showing notices to administrators of sites that run long-outdated versions of PHP, which is the programming language that powers WordPress.' ), 'https://make.wordpress.org/core/2019/01/14/php-site-health-mechanisms-in-5-1/' ); ?></p>
+				<p><?php printf( __( 'With security and speed in mind, this release introduces&#8217;s first <a href="%s">Site Health</a> features. will start showing notices to administrators of sites that run long-outdated versions of PHP, which is the programming language that powers .' ), 'https://make.sample.org/core/2019/01/14/php-site-health-mechanisms-in-5-1/' ); ?></p>
 
-				<p><?php _e( 'When installing new plugins, WordPress&#8217;s Site Health features will check whether a plugin requires a version of PHP incompatible with your site. If so, WordPress will prevent you from installing that plugin.' ); ?></p>
+				<p><?php _e( 'When installing new plugins, &#8217;s Site Health features will check whether a plugin requires a version of PHP incompatible with your site. If so,  will prevent you from installing that plugin.' ); ?></p>
 
 				<?php
 				$response = wp_check_php_version();
 				if ( $response && isset( $response['is_acceptable'] ) && ! $response['is_acceptable'] && current_user_can( 'update_php' ) ) :
 					?>
-					<p><em><?php _e( 'WordPress has detected your site is running an outdated version of PHP. You will see this notice on your dashboard with instructions for contacting your host.' ); ?></em></p>
+					<p><em><?php _e( ' has detected your site is running an outdated version of PHP. You will see this notice on your dashboard with instructions for contacting your host.' ); ?></em></p>
 				<?php endif; ?>
 
 				<p><a class="button button-default button-hero" href="<?php echo esc_url( wp_get_update_php_url() ); ?>"><?php _e( 'Learn more about updating PHP' ); ?></a></p>
@@ -72,7 +71,7 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				<div class="inline-svg alignright">
 					<img src="https://s.w.org/images/core/5.1/editor-performance.svg" alt="">
 				</div>
-				<p><?php _e( 'Introduced in WordPress 5.0, the new block editor continues to improve. Most significantly, WordPress 5.1 includes solid performance improvements within the editor. The editor should feel a little quicker to start, and typing should feel smoother. Nevertheless, expect more performance improvements in the next releases.' ); ?></p>
+				<p><?php _e( 'Introduced in  5.0, the new block editor continues to improve. Most significantly,  5.1 includes solid performance improvements within the editor. The editor should feel a little quicker to start, and typing should feel smoother. Nevertheless, expect more performance improvements in the next releases.' ); ?></p>
 				<?php if ( current_user_can( 'edit_posts' ) ) : ?>
 					<p><a class="button button-default button-hero" href="<?php echo esc_url( admin_url( 'post-new.php' ) ); ?>"><?php _e( 'Build your first post' ); ?></a></p>
 				<?php endif; ?>
@@ -89,7 +88,7 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				<p>
 					<?php _e( '5.1 introduces a new database table to store metadata associated with sites and allows for the storage of arbitrary site data relevant in a multisite / network context.' ); ?>
 					<br>
-					<?php printf( __( '<a href="%s">Read more.</a>' ), 'https://make.wordpress.org/core/2019/01/28/multisite-support-for-site-metadata-in-5-1/' ); ?>
+					<?php printf( __( '<a href="%s">Read more.</a>' ), 'https://make.sample.org/core/2019/01/28/multisite-support-for-site-metadata-in-5-1/' ); ?>
 				</p>
 			</div>
 			<div class="col">
@@ -97,15 +96,15 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				<p>
 					<?php _e( 'The Cron API has been updated with new functions to assist with returning data and includes new filters for modifying cron storage. Other changes in behavior affect cron spawning on servers running FastCGI and PHP-FPM versions 7.0.16 and above.' ); ?>
 					<br>
-					<?php printf( __( '<a href="%s">Read more.</a>' ), 'https://make.wordpress.org/core/2019/01/09/cron-improvements-with-php-fpm-in-wordpress-5-1/' ); ?>
+					<?php printf( __( '<a href="%s">Read more.</a>' ), 'https://make.sample.org/core/2019/01/09/cron-improvements-with-php-fpm-in-5-1/' ); ?>
 				</p>
 			</div>
 			<div class="col">
 				<h4><?php _e( 'New JS Build Processes' ); ?></h4>
 				<p>
-					<?php _e( 'WordPress 5.1 features a new JavaScript build option, following the large reorganization of code started in the 5.0 release.' ); ?>
+					<?php _e( ' 5.1 features a new JavaScript build option, following the large reorganization of code started in the 5.0 release.' ); ?>
 					<br>
-					<?php printf( __( '<a href="%s">Read more.</a>' ), 'https://make.wordpress.org/core/2018/05/16/preparing-wordpress-for-a-javascript-future-part-1-build-step-and-folder-reorganization/' ); ?>
+					<?php printf( __( '<a href="%s">Read more.</a>' ), 'https://make.sample.org/core/2018/05/16/preparing-sample-for-a-javascript-future-part-1-build-step-and-folder-reorganization/' ); ?>
 				</p>
 			</div>
 		</div>

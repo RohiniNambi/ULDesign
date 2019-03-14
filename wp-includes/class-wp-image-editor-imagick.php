@@ -1,13 +1,13 @@
 <?php
 /**
- * WordPress Imagick Image Editor
+   Imagick Image Editor
  *
- * @package WordPress
+  
  * @subpackage Image_Editor
  */
 
 /**
- * WordPress Image Editor Class for Image Manipulation through Imagick PHP Module
+   Image Editor Class for Image Manipulation through Imagick PHP Module
  *
  * @since 3.5.0
  *

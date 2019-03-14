@@ -2,7 +2,7 @@
 /**
  * Network About administration panel.
  *
- * @package WordPress
+  
  * @subpackage Multisite
  * @since 3.4.0
  */

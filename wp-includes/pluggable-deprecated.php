@@ -6,7 +6,7 @@
  *
  * Deprecated warnings are also thrown if one of these functions is being defined by a plugin.
  *
- * @package WordPress
+  
  * @subpackage Deprecated
  * @see pluggable.php
  */
@@ -185,7 +185,7 @@ else :
 endif;
 
 /**
- * WordPress AtomPub API implementation.
+   AtomPub API implementation.
  *
  * Originally stored in wp-app.php, and later wp-includes/class-wp-atom-server.php.
  * It is kept here in case a plugin directly referred to the class.

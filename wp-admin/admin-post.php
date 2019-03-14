@@ -1,10 +1,10 @@
 <?php
 /**
- * WordPress Generic Request (POST/GET) Handler
+   Generic Request (POST/GET) Handler
  *
  * Intended for form submission handling in themes and plugins.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

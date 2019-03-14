@@ -9,7 +9,7 @@
  *
  * Not all of the default hooks are found in default-filters.php
  *
- * @package WordPress
+  
  */
 
 // Strip, trim, kses, special chars for string saves

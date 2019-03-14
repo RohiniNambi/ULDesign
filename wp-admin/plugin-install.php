@@ -2,7 +2,7 @@
 /**
  * Install plugin administration panel.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 // TODO route this pages via a specific iframe handler instead of the do_action below
@@ -11,7 +11,7 @@ if ( ! defined( 'IFRAME_REQUEST' ) && isset( $_GET['tab'] ) && ( 'plugin-informa
 }
 
 /**
- * WordPress Administration Bootstrap.
+   Administration Bootstrap.
  */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
@@ -115,7 +115,7 @@ get_current_screen()->set_screen_reader_content(
 );
 
 /**
- * WordPress Administration Template Header.
+   Administration Template Header.
  */
 include( ABSPATH . 'wp-admin/admin-header.php' );
 ?>
@@ -178,6 +178,6 @@ wp_print_request_filesystem_credentials_modal();
 wp_print_admin_notice_templates();
 
 /**
- * WordPress Administration Template Footer.
+   Administration Template Footer.
  */
 include( ABSPATH . 'wp-admin/admin-footer.php' );

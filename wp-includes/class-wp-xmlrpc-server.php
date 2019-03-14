@@ -2,12 +2,12 @@
 /**
  * XML-RPC protocol support for WordPress
  *
- * @package WordPress
+  
  * @subpackage Publishing
  */
 
 /**
- * WordPress XMLRPC server implementation.
+   XMLRPC server implementation.
  *
  * Implements compatibility for Blogger API, MetaWeblog API, MovableType, and
  * pingback. Additional WordPress API for managing comments, pages, posts,

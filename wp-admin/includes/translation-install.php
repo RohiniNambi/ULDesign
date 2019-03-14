@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Translation Installation Administration API
+   Translation Installation Administration API
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

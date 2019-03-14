@@ -307,7 +307,7 @@ function readTextFile(file) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -403,7 +403,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -500,7 +500,7 @@ function _importReusableBlock() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -642,7 +642,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -683,7 +683,7 @@ function ImportDropdown(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

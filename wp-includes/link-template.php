@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Link Template Functions
+   Link Template Functions
  *
- * @package WordPress
+  
  * @subpackage Template
  */
 

@@ -1391,7 +1391,7 @@ var external_this_wp_reduxRoutine_default = /*#__PURE__*/__webpack_require__.n(e
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1668,7 +1668,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/data/build-module/components/registry-provider/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -1695,7 +1695,7 @@ var RegistryConsumer = Consumer;
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1880,7 +1880,7 @@ var with_select_withSelect = function withSelect(mapSelectToProps) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

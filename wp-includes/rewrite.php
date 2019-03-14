@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Rewrite API
+   Rewrite API
  *
- * @package WordPress
+  
  * @subpackage Rewrite
  */
 

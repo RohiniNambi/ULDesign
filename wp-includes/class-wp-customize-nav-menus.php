@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Customize Nav Menus classes
+   Customize Nav Menus classes
  *
- * @package WordPress
+  
  * @subpackage Customize
  * @since 4.3.0
  */

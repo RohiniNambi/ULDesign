@@ -16,7 +16,7 @@
  *
  * This file should have no external dependencies.
  *
- * @package WordPress
+  
  * @subpackage Plugin
  * @since 1.5.0
  */
@@ -44,7 +44,7 @@ if ( ! isset( $wp_current_filter ) ) {
 /**
  * Hook a function or method to a specific filter action.
  *
- * WordPress offers filter hooks to allow plugins to modify
+   offers filter hooks to allow plugins to modify
  * various types of internal data at runtime.
  *
  * A plugin can modify data by binding a callback to a filter hook. When the filter

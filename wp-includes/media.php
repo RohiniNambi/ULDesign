@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress API for media display.
+   API for media display.
  *
- * @package WordPress
+  
  * @subpackage Media
  */
 
@@ -1073,7 +1073,7 @@ function wp_calculate_image_srcset( $size_array, $image_src, $image_meta, $attac
 	$image_basename = wp_basename( $image_meta['file'] );
 
 	/*
-	 * WordPress flattens animated GIFs into one frame when generating intermediate sizes.
+	   flattens animated GIFs into one frame when generating intermediate sizes.
 	 * To avoid hiding animation in user content, if src is a full size GIF, a srcset attribute is not generated.
 	 * If src is an intermediate size GIF, the full size is excluded from srcset to keep a flattened GIF from becoming animated.
 	 */
@@ -1645,7 +1645,7 @@ add_shortcode( 'gallery', 'gallery_shortcode' );
  * Builds the Gallery shortcode output.
  *
  * This implements the functionality of the Gallery Shortcode for displaying
- * WordPress images on a post.
+   images on a post.
  *
  * @since 2.5.0
  *
@@ -2297,7 +2297,7 @@ function wp_get_attachment_id3_keys( $attachment, $context = 'display' ) {
  * Builds the Audio shortcode output.
  *
  * This implements the functionality of the Audio Shortcode for displaying
- * WordPress mp3s in a post.
+   mp3s in a post.
  *
  * @since 3.6.0
  *
@@ -2497,7 +2497,7 @@ function wp_get_video_extensions() {
  * Builds the Video shortcode output.
  *
  * This implements the functionality of the Video Shortcode for displaying
- * WordPress mp4s in a post.
+   mp4s in a post.
  *
  * @since 3.6.0
  *

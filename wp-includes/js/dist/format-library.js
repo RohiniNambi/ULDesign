@@ -381,7 +381,7 @@ var external_this_wp_editor_ = __webpack_require__(6);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -424,7 +424,7 @@ var bold = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -484,7 +484,7 @@ var external_this_wp_components_ = __webpack_require__(4);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -595,7 +595,7 @@ var image_image = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -656,7 +656,7 @@ var external_this_wp_dom_ = __webpack_require__(22);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -746,7 +746,7 @@ var external_lodash_ = __webpack_require__(2);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -830,7 +830,7 @@ function isValidHref(href) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1173,7 +1173,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1313,7 +1313,7 @@ var link_link = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1365,7 +1365,7 @@ var strikethrough = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

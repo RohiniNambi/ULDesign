@@ -5480,7 +5480,7 @@ var external_this_wp_i18n_ = __webpack_require__(1);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5956,7 +5956,7 @@ function updateCategory(slug, category) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/blocks/build-module/store/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -5995,7 +5995,7 @@ var external_this_wp_element_ = __webpack_require__(0);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6118,7 +6118,7 @@ function normalizeBlockType(blockTypeOrName) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6447,7 +6447,7 @@ var registration_unregisterBlockStyle = function unregisterBlockStyle(blockName,
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7650,7 +7650,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7725,7 +7725,7 @@ var withBlockContentContext = Object(external_this_wp_compose_["createHigherOrde
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7996,7 +7996,7 @@ function serialize(blocks) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8528,7 +8528,7 @@ function isValidBlockContent(blockTypeOrName, attributes, innerHTML) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8854,7 +8854,7 @@ function matchers_html(selector, multilineTag) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9395,7 +9395,7 @@ function isPhrasingContent(node) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9764,7 +9764,7 @@ var normalise_blocks_window$Node = window.Node,
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/blocks/build-module/api/raw-handling/special-comment-converter.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -9900,7 +9900,7 @@ function isDoubleBR(node) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/blocks/build-module/api/raw-handling/phrasing-content-reducer.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -10052,7 +10052,7 @@ function isList(node) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10122,7 +10122,7 @@ var external_this_wp_blob_ = __webpack_require__(32);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -10295,7 +10295,7 @@ var external_this_wp_shortcode_ = __webpack_require__(123);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10406,7 +10406,7 @@ function slackMarkdownVariantCorrector(text) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/blocks/build-module/api/raw-handling/iframe-remover.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -10691,7 +10691,7 @@ function rawHandler(_ref4) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/blocks/build-module/api/categories.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -10732,7 +10732,7 @@ function categories_updateCategory(slug, category) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

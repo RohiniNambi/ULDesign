@@ -4,12 +4,12 @@
  *
  * Requires wp-admin/includes/revision.php.
  *
- * @package WordPress
+  
  * @subpackage Administration
  * @since 2.6.0
  */
 
-/** WordPress Administration Bootstrap */
+/*  Administration Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
 require ABSPATH . 'wp-admin/includes/revision.php';

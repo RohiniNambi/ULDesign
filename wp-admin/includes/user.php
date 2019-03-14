@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress user administration API.
+   user administration API.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

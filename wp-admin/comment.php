@@ -2,7 +2,7 @@
 /**
  * Comment Management Screen
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

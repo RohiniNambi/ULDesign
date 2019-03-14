@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress scripts and styles default loader.
+   scripts and styles default loader.
  *
  * Several constants are used to manage the loading, concatenating and compression of scripts and CSS:
  * define('SCRIPT_DEBUG', true); loads the development (non-minified) versions of all scripts and CSS, and disables compression and concatenation,
@@ -13,25 +13,25 @@
  * to temporarily override the above settings. Also a compression test is run once and the result is saved
  * as option 'can_compress_scripts' (0/1). The test will run again if that option is deleted.
  *
- * @package WordPress
+  
  */
 
-/** WordPress Dependency Class */
+/*  Dependency Class */
 require( ABSPATH . WPINC . '/class-wp-dependency.php' );
 
-/** WordPress Dependencies Class */
+/*  Dependencies Class */
 require( ABSPATH . WPINC . '/class.wp-dependencies.php' );
 
-/** WordPress Scripts Class */
+/*  Scripts Class */
 require( ABSPATH . WPINC . '/class.wp-scripts.php' );
 
-/** WordPress Scripts Functions */
+/*  Scripts Functions */
 require( ABSPATH . WPINC . '/functions.wp-scripts.php' );
 
-/** WordPress Styles Class */
+/*  Styles Class */
 require( ABSPATH . WPINC . '/class.wp-styles.php' );
 
-/** WordPress Styles Functions */
+/*  Styles Functions */
 require( ABSPATH . WPINC . '/functions.wp-styles.php' );
 
 /**

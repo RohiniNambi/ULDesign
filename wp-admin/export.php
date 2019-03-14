@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Export Administration Screen
+   Export Administration Screen
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

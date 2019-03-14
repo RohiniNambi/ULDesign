@@ -2,7 +2,7 @@
 /**
  * Administration API: WP_List_Table class
  *
- * @package WordPress
+  
  * @subpackage List_Table
  * @since 3.1.0
  */

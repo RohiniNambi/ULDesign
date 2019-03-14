@@ -235,7 +235,7 @@ function isAppleOS() {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

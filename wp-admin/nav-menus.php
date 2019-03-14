@@ -1,11 +1,11 @@
 <?php
 /**
- * WordPress Administration for Navigation Menus
+   Administration for Navigation Menus
  * Interface functions
  *
  * @version 2.0.0
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

@@ -198,7 +198,7 @@ var selectors = _interopRequireWildcard(__webpack_require__(291));
 var _controls = _interopRequireDefault(__webpack_require__(292));
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -739,7 +739,7 @@ exports.default = void 0;
 var _a11y = __webpack_require__(44);
 
 /**
- * WordPress dependencies
+   dependencies
  */
 var _default = {
   SPEAK: function SPEAK(action) {

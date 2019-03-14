@@ -23107,7 +23107,7 @@ var esm_extends = __webpack_require__(18);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23265,7 +23265,7 @@ var objectWithoutProperties = __webpack_require__(21);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23502,7 +23502,7 @@ function utils_computePopoverPosition(anchorRect, contentSize) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23585,7 +23585,7 @@ function utils_computePopoverPosition(anchorRect, contentSize) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23677,7 +23677,7 @@ var dist_default = /*#__PURE__*/__webpack_require__.n(dist);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23763,7 +23763,7 @@ function Shortcut(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -23925,7 +23925,7 @@ OR if you're looking to change now SVGs get output, you'll need to edit strings 
 !!! */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -25151,7 +25151,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25232,7 +25232,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -25439,7 +25439,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25576,7 +25576,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25702,7 +25702,7 @@ var slot_Slot = function Slot(props) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -25864,7 +25864,7 @@ function createSlotFill(name) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26252,7 +26252,7 @@ var external_this_wp_a11y_ = __webpack_require__(44);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -26328,7 +26328,7 @@ var external_this_wp_a11y_ = __webpack_require__(44);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27040,7 +27040,7 @@ var clipboard_default = /*#__PURE__*/__webpack_require__.n(clipboard);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27201,7 +27201,7 @@ var color_indicator_ColorIndicator = function ColorIndicator(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -27583,7 +27583,7 @@ var mousetrap_global_bind = __webpack_require__(198);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27700,7 +27700,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -27935,7 +27935,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28136,7 +28136,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -28196,7 +28196,7 @@ function TextControl(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28563,7 +28563,7 @@ function (_Component2) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28805,7 +28805,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -28921,7 +28921,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29040,7 +29040,7 @@ var react_dates = __webpack_require__(187);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29130,7 +29130,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29537,7 +29537,7 @@ function (_Component) {
 // See: https://github.com/airbnb/react-dates#initialize
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29644,7 +29644,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -29762,7 +29762,7 @@ disabled_Disabled.Consumer = disabled_Consumer;
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -29990,7 +29990,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30268,7 +30268,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30393,7 +30393,7 @@ function (_Component) {
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -30557,7 +30557,7 @@ container_forwardedNavigableContainer.displayName = 'NavigableContainer';
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -30613,7 +30613,7 @@ function NavigableMenu(_ref, ref) {
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -30675,7 +30675,7 @@ function TabbableContainer(_ref, ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30780,7 +30780,7 @@ function DropdownMenu(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30832,7 +30832,7 @@ function ExternalLink(_ref, ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30917,7 +30917,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -30997,7 +30997,7 @@ function RangeControl(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -31127,7 +31127,7 @@ function FontSizePicker(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -31273,7 +31273,7 @@ var esm_typeof = __webpack_require__(28);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -31354,7 +31354,7 @@ function Token(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -31451,7 +31451,7 @@ var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -31606,7 +31606,7 @@ suggestions_list_SuggestionsList.defaultProps = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32270,7 +32270,7 @@ form_token_field_FormTokenField.defaultProps = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32336,7 +32336,7 @@ function Icon(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32381,7 +32381,7 @@ function MenuGroup(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32498,7 +32498,7 @@ function MenuItemsChoice(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32658,7 +32658,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -32778,7 +32778,7 @@ function showApp() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -32979,7 +32979,7 @@ modal_Modal.defaultProps = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33141,7 +33141,7 @@ function Panel(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -33428,7 +33428,7 @@ function CategorySelect(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -33512,7 +33512,7 @@ function QueryControls(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -34360,7 +34360,7 @@ function ResizableBox(_ref) {
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -34398,7 +34398,7 @@ function ResponsiveWrapper(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -34579,7 +34579,7 @@ sandbox_Sandbox = Object(external_this_wp_compose_["withGlobalEvents"])({
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -34675,7 +34675,7 @@ var external_this_wp_url_ = __webpack_require__(24);
  */
 
 /**
- * WordPress dependencies.
+   dependencies.
  */
 
 
@@ -34819,7 +34819,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -34938,7 +34938,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -34995,7 +34995,7 @@ function TextareaControl(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -35242,7 +35242,7 @@ function Toolbar(_ref) {
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -35356,7 +35356,7 @@ function Toolbar(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -35453,7 +35453,7 @@ var external_this_wp_hooks_ = __webpack_require__(23);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -35556,7 +35556,7 @@ var v4_default = /*#__PURE__*/__webpack_require__.n(v4);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

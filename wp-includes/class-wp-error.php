@@ -1,14 +1,14 @@
 <?php
 /**
- * WordPress Error API.
+   Error API.
  *
  * Contains the WP_Error class and the is_wp_error() function.
  *
- * @package WordPress
+  
  */
 
 /**
- * WordPress Error class.
+   Error class.
  *
  * Container for checking for WordPress errors and error messages. Return
  * WP_Error and use is_wp_error() to check if this class is returned. Many

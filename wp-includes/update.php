@@ -2,7 +2,7 @@
 /**
  * A simple set of functions to check our version 1.0 update service.
  *
- * @package WordPress
+  
  * @since 2.3.0
  */
 
@@ -10,7 +10,7 @@
  * Check WordPress version against the newest version.
  *
  * The WordPress version, PHP version, and Locale is sent. Checks against the
- * WordPress server at api.wordpress.org server. Will only check if WordPress
+   server at api.wordpress.org server. Will only check if WordPress
  * isn't installing.
  *
  * @since 2.3.0
@@ -424,7 +424,7 @@ function wp_update_plugins( $extra_stats = array() ) {
  * Check theme versions against the latest versions hosted on WordPress.org.
  *
  * A list of all themes installed in sent to WP. Checks against the
- * WordPress server at api.wordpress.org. Will only check if WordPress isn't
+   server at api.wordpress.org. Will only check if WordPress isn't
  * installing.
  *
  * @since 2.7.0

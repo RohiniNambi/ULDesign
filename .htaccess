@@ -1,5 +1,5 @@
 
-# BEGIN WordPress
+# BEGIN
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /ulemon/
@@ -9,4 +9,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /ulemon/index.php [L]
 </IfModule>
 
-# END WordPress
+# END

@@ -244,7 +244,7 @@ var external_lodash_ = __webpack_require__(2);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -383,7 +383,7 @@ function removeFormatTypes(names) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/rich-text/build-module/store/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -732,7 +732,7 @@ function createElement(_ref, html) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -1477,7 +1477,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2037,7 +2037,7 @@ function splitAtSelection(_ref2) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/rich-text/build-module/get-format-type.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -2751,7 +2751,7 @@ function toggleFormat(value, format) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/rich-text/build-module/unregister-format-type.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

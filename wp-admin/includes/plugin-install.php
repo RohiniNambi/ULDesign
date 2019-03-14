@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Plugin Install Administration API
+   Plugin Install Administration API
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

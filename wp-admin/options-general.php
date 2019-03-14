@@ -2,14 +2,14 @@
 /**
  * General settings administration panel.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 
-/** WordPress Administration Bootstrap */
+/*  Administration Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
-/** WordPress Translation Installation API */
+/*  Translation Installation API */
 require_once( ABSPATH . 'wp-admin/includes/translation-install.php' );
 
 if ( ! current_user_can( 'manage_options' ) ) {

@@ -2,7 +2,7 @@
 /**
  * The template for displaying Current Discussion on posts
  *
- * @package WordPress
+  
  * @subpackage Twenty_Nineteen
  * @since 1.0.0
  */

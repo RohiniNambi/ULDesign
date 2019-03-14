@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Dashboard Widget Administration Screen API
+   Dashboard Widget Administration Screen API
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

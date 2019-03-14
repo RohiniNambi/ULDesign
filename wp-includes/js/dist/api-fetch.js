@@ -371,7 +371,7 @@ var external_this_wp_url_ = __webpack_require__(24);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
  // Apply query arguments to both URL and Path, whichever is present.
 
@@ -580,7 +580,7 @@ function httpV1Middleware(options, next) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/api-fetch/build-module/middlewares/user-locale.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -607,7 +607,7 @@ function userLocaleMiddleware(options, next) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**

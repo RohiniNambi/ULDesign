@@ -615,7 +615,7 @@ var external_this_wp_i18n_ = __webpack_require__(1);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -859,7 +859,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/hooks/components/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -899,7 +899,7 @@ var external_this_wp_compose_ = __webpack_require__(7);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1030,7 +1030,7 @@ var external_this_wp_plugins_ = __webpack_require__(54);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1072,7 +1072,7 @@ var external_this_wp_keycodes_ = __webpack_require__(16);
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -1106,7 +1106,7 @@ function KeyboardShortcutsHelpMenuItem(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1133,7 +1133,7 @@ ToolsMoreMenuGroup.Slot = function (_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1194,7 +1194,7 @@ var PREFERENCES_DEFAULTS = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1979,7 +1979,7 @@ var onChangeListener = function onChangeListener(selector, listener) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2213,7 +2213,7 @@ function applyMiddlewares(store) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/store/index.js
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 /**
@@ -2265,7 +2265,7 @@ var external_this_wp_url_ = __webpack_require__(24);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2396,7 +2396,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/keyboard-shortcuts.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /* harmony default export */ var keyboard_shortcuts = ({
@@ -2416,7 +2416,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2487,7 +2487,7 @@ function ModeSwitcher(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2514,7 +2514,7 @@ PluginsMoreMenuGroup.Slot = function (_ref) {
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -2542,7 +2542,7 @@ function OptionsMenuItem(_ref) {
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -2581,7 +2581,7 @@ function FeatureToggle(_ref) {
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -2620,7 +2620,7 @@ function WritingMenu(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2686,7 +2686,7 @@ var more_menu_MoreMenu = function MoreMenu() {
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -2733,7 +2733,7 @@ function FullscreenModeClose(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2786,7 +2786,7 @@ function HeaderToolbar(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2813,7 +2813,7 @@ PinnedPlugins.Slot = function (props) {
  */
 
 /**
- * WordPress dependencies.
+   dependencies.
  */
 
 
@@ -2901,7 +2901,7 @@ function PostPublishButtonOrToggle(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2991,7 +2991,7 @@ function Header(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3036,7 +3036,7 @@ function TextEditor(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3097,7 +3097,7 @@ function BlockInspectorButton(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3137,7 +3137,7 @@ PluginBlockSettingsMenuGroup.Slot = Object(external_this_wp_data_["withSelect"])
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -3180,7 +3180,7 @@ function VisualEditor() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3277,7 +3277,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/components/keyboard-shortcut-help-modal/config.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3405,7 +3405,7 @@ var textFormattingShortcuts = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3527,7 +3527,7 @@ var section_Section = function Section(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3555,7 +3555,7 @@ function BaseOption(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3619,7 +3619,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/components/options-modal/options/enable-panel.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3653,7 +3653,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/components/options-modal/options/enable-publish-sidebar.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3690,7 +3690,7 @@ Object(external_this_wp_viewport_["ifViewportMatches"])('medium'))(base));
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -3749,7 +3749,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/edit-post/build-module/components/options-modal/options/enable-tips.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3792,7 +3792,7 @@ deferred));
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3851,7 +3851,7 @@ function MetaBoxesSection(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3942,7 +3942,7 @@ function OptionsModal(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4043,7 +4043,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4114,7 +4114,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4158,7 +4158,7 @@ function MetaBoxes(_ref) {
 
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -4205,7 +4205,7 @@ WrappedSidebar.Slot = sidebar_Slot;
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4258,7 +4258,7 @@ var sidebar_header_SidebarHeader = function SidebarHeader(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4327,7 +4327,7 @@ var settings_header_SettingsHeader = function SettingsHeader(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4365,7 +4365,7 @@ function PostVisibility() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4377,7 +4377,7 @@ function PostTrash() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4421,7 +4421,7 @@ function PostSchedule(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4434,7 +4434,7 @@ function PostSticky() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4447,7 +4447,7 @@ function PostAuthor() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4460,7 +4460,7 @@ function PostFormat() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4477,7 +4477,7 @@ function PostPendingStatus() {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4502,7 +4502,7 @@ plugin_post_status_info_PluginPostStatusInfo.Slot = plugin_post_status_info_Slot
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4556,7 +4556,7 @@ function PostStatus(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4577,7 +4577,7 @@ function LastRevision() {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4628,7 +4628,7 @@ function TaxonomyPanel(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -4657,7 +4657,7 @@ function PostTaxonomies() {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4719,7 +4719,7 @@ var applyWithDispatch = Object(external_this_wp_data_["withDispatch"])(function 
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4769,7 +4769,7 @@ function PostExcerpt(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4927,7 +4927,7 @@ function PostLink(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4983,7 +4983,7 @@ function DiscussionPanel(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5043,7 +5043,7 @@ var page_attributes_applyWithDispatch = Object(external_this_wp_data_["withDispa
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5099,7 +5099,7 @@ var settings_sidebar_SettingsSidebar = function SettingsSidebar(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5127,7 +5127,7 @@ plugin_post_publish_panel_PluginPostPublishPanel.Slot = plugin_post_publish_pane
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5159,7 +5159,7 @@ plugin_pre_publish_panel_PluginPrePublishPanel.Slot = plugin_pre_publish_panel_S
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5237,7 +5237,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5355,7 +5355,7 @@ function Layout(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5415,7 +5415,7 @@ function Editor(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5483,7 +5483,7 @@ var plugin_block_settings_menu_item_PluginBlockSettingsMenuItem = function Plugi
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5517,7 +5517,7 @@ var plugin_more_menu_item_PluginMoreMenuItem = function PluginMoreMenuItem(_ref)
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5614,7 +5614,7 @@ function PluginSidebar(props) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5681,7 +5681,7 @@ var plugin_sidebar_more_menu_item_PluginSidebarMoreMenuItem = function PluginSid
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

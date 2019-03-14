@@ -343,7 +343,7 @@ var external_this_wp_isShallowEqual_default = /*#__PURE__*/__webpack_require__.n
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -499,7 +499,7 @@ function () {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -606,7 +606,7 @@ function withGlobalEvents(eventTypesToHandlers) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -669,7 +669,7 @@ function withGlobalEvents(eventTypesToHandlers) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -776,7 +776,7 @@ var withSafeTimeout = create_higher_order_component(function (OriginalComponent)
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**

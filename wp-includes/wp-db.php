@@ -1,10 +1,10 @@
 <?php
 /**
- * WordPress DB Class
+   DB Class
  *
  * Original code from {@link http://php.justinvincent.com Justin Vincent (justin@visunet.ie)}
  *
- * @package WordPress
+  
  * @subpackage Database
  * @since 0.71
  */
@@ -37,7 +37,7 @@ define( 'ARRAY_A', 'ARRAY_A' );
 define( 'ARRAY_N', 'ARRAY_N' );
 
 /**
- * WordPress Database Access Abstraction Object
+   Database Access Abstraction Object
  *
  * It is possible to replace this class with your own
  * by setting the $wpdb global variable in wp-content/db.php
@@ -206,7 +206,7 @@ class wpdb {
 	protected $reconnect_retries = 5;
 
 	/**
-	 * WordPress table prefix
+	   table prefix
 	 *
 	 * You can set this to have multiple WordPress installations
 	 * in a single database. The second reason is for possible
@@ -218,7 +218,7 @@ class wpdb {
 	public $prefix = '';
 
 	/**
-	 * WordPress base table prefix.
+	   base table prefix.
 	 *
 	 * @since 3.0.0
 	 * @var string
@@ -308,7 +308,7 @@ class wpdb {
 	);
 
 	/**
-	 * WordPress Comments table
+	   Comments table
 	 *
 	 * @since 1.5.0
 	 * @var string
@@ -316,7 +316,7 @@ class wpdb {
 	public $comments;
 
 	/**
-	 * WordPress Comment Metadata table
+	   Comment Metadata table
 	 *
 	 * @since 2.9.0
 	 * @var string
@@ -324,7 +324,7 @@ class wpdb {
 	public $commentmeta;
 
 	/**
-	 * WordPress Links table
+	   Links table
 	 *
 	 * @since 1.5.0
 	 * @var string
@@ -332,7 +332,7 @@ class wpdb {
 	public $links;
 
 	/**
-	 * WordPress Options table
+	   Options table
 	 *
 	 * @since 1.5.0
 	 * @var string
@@ -340,7 +340,7 @@ class wpdb {
 	public $options;
 
 	/**
-	 * WordPress Post Metadata table
+	   Post Metadata table
 	 *
 	 * @since 1.5.0
 	 * @var string
@@ -348,7 +348,7 @@ class wpdb {
 	public $postmeta;
 
 	/**
-	 * WordPress Posts table
+	   Posts table
 	 *
 	 * @since 1.5.0
 	 * @var string
@@ -356,7 +356,7 @@ class wpdb {
 	public $posts;
 
 	/**
-	 * WordPress Terms table
+	   Terms table
 	 *
 	 * @since 2.3.0
 	 * @var string
@@ -364,7 +364,7 @@ class wpdb {
 	public $terms;
 
 	/**
-	 * WordPress Term Relationships table
+	   Term Relationships table
 	 *
 	 * @since 2.3.0
 	 * @var string
@@ -372,7 +372,7 @@ class wpdb {
 	public $term_relationships;
 
 	/**
-	 * WordPress Term Taxonomy table
+	   Term Taxonomy table
 	 *
 	 * @since 2.3.0
 	 * @var string
@@ -380,7 +380,7 @@ class wpdb {
 	public $term_taxonomy;
 
 	/**
-	 * WordPress Term Meta table.
+	   Term Meta table.
 	 *
 	 * @since 4.4.0
 	 * @var string
@@ -392,7 +392,7 @@ class wpdb {
 	//
 
 	/**
-	 * WordPress User Metadata table
+	   User Metadata table
 	 *
 	 * @since 2.3.0
 	 * @var string
@@ -400,7 +400,7 @@ class wpdb {
 	public $usermeta;
 
 	/**
-	 * WordPress Users table
+	   Users table
 	 *
 	 * @since 1.5.0
 	 * @var string

@@ -2,7 +2,7 @@
 /**
  * Upgrade API: Theme_Upgrader class
  *
- * @package WordPress
+  
  * @subpackage Upgrader
  * @since 4.6.0
  */

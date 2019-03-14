@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress environment setup class.
+   environment setup class.
  *
- * @package WordPress
+  
  * @since 2.0.0
  */
 class WP {
@@ -564,7 +564,7 @@ class WP {
 	 *
 	 * The query_vars property will be extracted to the GLOBALS. So care should
 	 * be taken when naming global variables that might interfere with the
-	 * WordPress environment.
+	   environment.
 	 *
 	 * @since 2.0.0
 	 *

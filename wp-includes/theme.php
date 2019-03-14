@@ -2,7 +2,7 @@
 /**
  * Theme, template, and stylesheet functions.
  *
- * @package WordPress
+  
  * @subpackage Theme
  */
 
@@ -260,7 +260,7 @@ function get_stylesheet_uri() {
  * the {@see 'stylesheet_directory_uri'} or {@see 'locale_stylesheet_uri'} filters.
  *
  * If you want to change the location of the stylesheet files for the entire
- * WordPress workflow, then change the former. If you just have the locale in a
+   workflow, then change the former. If you just have the locale in a
  * separate folder, then change the latter.
  *
  * @since 2.1.0
@@ -2913,7 +2913,7 @@ function check_theme_switched() {
  * Loads the Customizer at plugins_loaded when accessing the customize.php admin
  * page or when any request includes a wp_customize=on param or a customize_changeset
  * param (a UUID). This param is a signal for whether to bootstrap the Customizer when
- * WordPress is loading, especially in the Customizer preview
+   is loading, especially in the Customizer preview
  * or when making Customizer Ajax requests for widgets or menus.
  *
  * @since 3.4.0

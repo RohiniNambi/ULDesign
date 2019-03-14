@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Installer
+   Installer
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 

@@ -2,11 +2,11 @@
 /**
  * Credits administration panel.
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 
-/** WordPress Administration Bootstrap */
+/*  Administration Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 require_once( dirname( __FILE__ ) . '/includes/credits.php' );
 

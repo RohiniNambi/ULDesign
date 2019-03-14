@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Network Administration API.
+   Network Administration API.
  *
- * @package WordPress
+  
  * @subpackage Administration
  * @since 4.4.0
  */

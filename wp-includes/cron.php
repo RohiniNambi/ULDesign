@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Cron API
+   Cron API
  *
- * @package WordPress
+  
  */
 
 /**

@@ -4,7 +4,7 @@
  *
  * Handles many functions for formatting output.
  *
- * @package WordPress
+  
  */
 
 /**
@@ -4791,7 +4791,7 @@ function wp_pre_kses_less_than_callback( $matches ) {
 }
 
 /**
- * WordPress implementation of PHP sprintf() with filters.
+   implementation of PHP sprintf() with filters.
  *
  * @since 2.5.0
  * @link https://secure.php.net/sprintf

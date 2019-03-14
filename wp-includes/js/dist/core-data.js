@@ -756,7 +756,7 @@ var external_this_wp_url_ = __webpack_require__(24);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -928,7 +928,7 @@ var external_this_wp_apiFetch_default = /*#__PURE__*/__webpack_require__.n(exter
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1484,7 +1484,7 @@ on_sub_key('stableKey')])(function () {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1740,7 +1740,7 @@ var REDUCER_KEY = 'core';
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1899,7 +1899,7 @@ function getEmbedPreview(state, url) {
 /**
  * Determines if the returned preview is an oEmbed link fallback.
  *
- * WordPress can be configured to return a simple link to a URL if it is not embeddable.
+   can be configured to return a simple link to a URL if it is not embeddable.
  * We need to be able to determine if a URL is embeddable or not, based on what we
  * get back from the oEmbed preview API.
  *
@@ -1958,7 +1958,7 @@ regeneratorRuntime.mark(resolvers_hasUploadPermissions);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2222,7 +2222,7 @@ function resolvers_hasUploadPermissions() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**

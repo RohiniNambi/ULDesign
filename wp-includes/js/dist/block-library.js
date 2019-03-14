@@ -1499,7 +1499,7 @@ var external_this_wp_data_ = __webpack_require__(5);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -1760,7 +1760,7 @@ var ParagraphEdit = Object(external_this_wp_compose_["compose"])([Object(externa
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2004,7 +2004,7 @@ var external_this_wp_viewport_ = __webpack_require__(37);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 var embedContentIcon = Object(external_this_wp_element_["createElement"])(external_this_wp_components_["SVG"], {
@@ -2125,7 +2125,7 @@ var embedTumbrIcon = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2501,7 +2501,7 @@ var dedupe_default = /*#__PURE__*/__webpack_require__.n(dedupe);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2681,7 +2681,7 @@ function util_fallback(url, onReplace) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -2800,7 +2800,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3549,7 +3549,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -3963,7 +3963,7 @@ var objectWithoutProperties = __webpack_require__(21);
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4026,7 +4026,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4119,7 +4119,7 @@ function HeadingEdit(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4315,7 +4315,7 @@ var _blockAttributes;
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -4684,7 +4684,7 @@ var external_this_wp_keycodes_ = __webpack_require__(16);
  */
 
 /**
- * WordPress Dependencies
+   Dependencies
  */
 
 
@@ -4887,7 +4887,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5204,7 +5204,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5636,7 +5636,7 @@ var gallery_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5688,7 +5688,7 @@ function ArchivesEdit(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5742,7 +5742,7 @@ var archives_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -5994,7 +5994,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6111,7 +6111,7 @@ var audio_settings = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6258,7 +6258,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6460,7 +6460,7 @@ var button_settings = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6699,7 +6699,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6765,7 +6765,7 @@ var categories_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -6795,7 +6795,7 @@ function CodeEdit(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -6875,7 +6875,7 @@ var memize_default = /*#__PURE__*/__webpack_require__.n(memize);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7071,7 +7071,7 @@ var columns_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7116,7 +7116,7 @@ var column_settings = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7577,7 +7577,7 @@ function backgroundImageStyles(url) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7614,7 +7614,7 @@ var embed_controls_EmbedControls = function EmbedControls(props) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7631,7 +7631,7 @@ var embed_loading_EmbedLoading = function EmbedLoading() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7691,7 +7691,7 @@ var url_url = __webpack_require__(75);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7775,7 +7775,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -7864,7 +7864,7 @@ var embed_preview_EmbedPreview = function EmbedPreview(props) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8112,7 +8112,7 @@ function getEmbedEditComponent(title, icon) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8267,7 +8267,7 @@ function getEmbedBlockSettings(_ref) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8308,7 +8308,7 @@ var embed_others = others.map(function (embedDefinition) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8381,7 +8381,7 @@ function FileBlockInspector(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8643,7 +8643,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8868,7 +8868,7 @@ var file_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -8975,7 +8975,7 @@ var html_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9139,7 +9139,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9361,7 +9361,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9615,7 +9615,7 @@ var media_text_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -9731,7 +9731,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies.
+   dependencies.
  */
 
 
@@ -9803,7 +9803,7 @@ var external_this_wp_htmlEntities_ = __webpack_require__(49);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10030,7 +10030,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10113,7 +10113,7 @@ var latest_posts_settings = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10382,7 +10382,7 @@ var list_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10476,7 +10476,7 @@ var missing_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10572,7 +10572,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10658,7 +10658,7 @@ var more_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 function NextPageEdit() {
@@ -10671,7 +10671,7 @@ function NextPageEdit() {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10722,7 +10722,7 @@ var nextpage_settings = {
 
 
 /**
- * WordPress
+  
  */
 
 
@@ -10850,7 +10850,7 @@ var preformatted_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -10990,7 +10990,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -11162,7 +11162,7 @@ var pullquote_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -11281,7 +11281,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -11317,7 +11317,7 @@ function ReusableBlockIndicator(_ref) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -11520,7 +11520,7 @@ function (_Component) {
 
 // CONCATENATED MODULE: ./node_modules/@wordpress/block-library/build-module/block/index.js
 /**
- * WordPress dependencies
+   dependencies
  */
 
 /**
@@ -11553,7 +11553,7 @@ var block_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -11617,7 +11617,7 @@ var external_this_wp_autop_ = __webpack_require__(58);
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -11707,7 +11707,7 @@ var shortcode_settings = {
  */
 
 /**
- * WordPress
+  
  */
 
 
@@ -11804,7 +11804,7 @@ var external_this_wp_deprecated_default = /*#__PURE__*/__webpack_require__.n(ext
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -12063,7 +12063,7 @@ function deleteColumn(state, _ref10) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -12549,7 +12549,7 @@ function (_Component) {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -12719,7 +12719,7 @@ var table_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -12762,7 +12762,7 @@ var template_settings = {
  */
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -12905,7 +12905,7 @@ var text_columns_settings = {
 
 
 /**
- * WordPress
+  
  */
 
 
@@ -13015,7 +13015,7 @@ var verse_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -13320,7 +13320,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -13459,7 +13459,7 @@ var video_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -13695,7 +13695,7 @@ function (_Component) {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 
@@ -13800,7 +13800,7 @@ var classic_settings = {
 
 
 /**
- * WordPress dependencies
+   dependencies
  */
 
 

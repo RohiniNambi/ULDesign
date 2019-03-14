@@ -2,7 +2,7 @@
 /**
  * Widget API: WP_Widget_Media_Audio class
  *
- * @package WordPress
+  
  * @subpackage Widgets
  * @since 4.8.0
  */

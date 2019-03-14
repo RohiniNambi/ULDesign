@@ -1,8 +1,8 @@
 <?php
 /**
- * WordPress Administration Template Header
+   Administration Template Header
  *
- * @package WordPress
+  
  * @subpackage Administration
  */
 
