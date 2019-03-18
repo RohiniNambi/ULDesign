@@ -1023,7 +1023,7 @@ switch ( $action ) {
 			} elseif ( isset( $_GET['checkemail'] ) && 'registered' == $_GET['checkemail'] ) {
 				$errors->add( 'registered', __( 'Registration complete. Please check your email.' ), 'message' );
 			} elseif ( strpos( $redirect_to, 'about.php?updated' ) ) {
-				$errors->add( 'updated', __( '<strong>You have successfully updated WordPress!</strong> Please log back in to see what&#8217;s new.' ), 'message' );
+				$errors->add( 'updated', __( '<strong>You have successfully updated</strong> Please log back in to see what&#8217;s new.' ), 'message' );
 			}
 		}
 

@@ -32,7 +32,7 @@ if ( wp_is_mobile() ) {
 $title       = __( 'Dashboard' );
 $parent_file = 'index.php';
 
-$help = '<p>' . __( 'Welcome to your WordPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of WordPress. You can get help for any screen by clicking the Help tab above the screen title.' ) . '</p>';
+$help = '<p>' . __( 'Welcome to your Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features. You can get help for any screen by clicking the Help tab above the screen title.' ) . '</p>';
 
 $screen = get_current_screen();
 
@@ -46,7 +46,7 @@ $screen->add_help_tab(
 
 // Help tabs
 
-$help  = '<p>' . __( 'The left-hand navigation menu provides links to all of the WordPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom.' ) . '</p>';
+$help  = '<p>' . __( 'The left-hand navigation menu provides links to all of the administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom.' ) . '</p>';
 $help .= '<p>' . __( 'Links in the Toolbar at the top of the screen connect your dashboard and the front end of your site, and provide access to your profile and helpful WordPress information.' ) . '</p>';
 
 $screen->add_help_tab(
@@ -73,7 +73,7 @@ $screen->add_help_tab(
 $help = '<p>' . __( 'The boxes on your Dashboard screen are:' ) . '</p>';
 
 if ( current_user_can( 'edit_posts' ) ) {
-	$help .= '<p>' . __( '<strong>At A Glance</strong> &mdash; Displays a summary of the content on your site and identifies which theme and version of WordPress you are using.' ) . '</p>';
+	$help .= '<p>' . __( '<strong>At A Glance</strong> &mdash; Displays a summary of the content on your site and identifies which theme and version you are using.' ) . '</p>';
 }
 
 $help .= '<p>' . __( '<strong>Activity</strong> &mdash; Shows the upcoming scheduled posts, recently published posts, and the most recent comments on your posts and allows you to moderate them.' ) . '</p>';
